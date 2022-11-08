@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/digitallimat)
-- Live Site URL: [GitHub](https://github.com/digitallimat/Order-summary-component)
+- Live Site URL: [GitHub](https://digitallimat.github.io/Order-summary-component)
 
 ## My process
 
