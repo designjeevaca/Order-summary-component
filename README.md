@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/digitaltamildev)
-- Live Site URL: [GitHub](https://digitaltamildev.github.io/Order-summary-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/jeevatek)
+- Live Site URL: [GitHub](https://jeevatek.github.io/Order-summary-component)
 
 ## My process
 
